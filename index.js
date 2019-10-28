@@ -1,3 +1,4 @@
 // Write your code here!
 main.remove();
-let newHeader = document.createElement('main')
+let newHeader = document.createElement('h1')
+newHeader 
